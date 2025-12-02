@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wM3mr7DNtxw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lhuno\\source\\repos\\LHunor05\\devopsGood\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lhuno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
